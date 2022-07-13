@@ -1,2 +1,2 @@
 # CryptoPal-WP-plugin
-CryptoPal wordpress gateway payment plugin
+CryptoPal wordpress gateway payment plugin Djole
