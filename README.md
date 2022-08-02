@@ -34,7 +34,7 @@ channels with a proven track record are mailing lists, IRC channels, and forums.
 
 ### Credits (authors)
 Jorge Blanco Suarez
-Web: https://jorgewebcuba.000webhostapp.com/curriculum-vitae
+
 
 ### Contributing
 Give instructions on how to participate in your project patches.
